@@ -1,2 +1,2 @@
-# jspnp
+# jsonp
 jsonp原理
